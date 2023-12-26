@@ -1,2 +1,2 @@
 <?php
-echo "DEVELOPED BY ENG.ISACK";
+echo "DEVELOPED BY ENG.ISACK kariuki";
